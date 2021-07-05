@@ -20,7 +20,7 @@ WHERE `cfu` > '10';
 
 SELECT *
 FROM `students`
-WHERE `date_of_birth` <= '1990-07-05';
+WHERE `date_of_birth` <= '1991-07-05';
 
 
 
